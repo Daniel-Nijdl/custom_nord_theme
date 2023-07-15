@@ -45,7 +45,7 @@
   --home-icon: url('https://clearvision.gitlab.io/icons/discord.svg');
   --home-position: center;
   --home-size: 40px;
-
+  --channel-unread: #d8dee9;
   --channel-color: rgba(216,222,233,0.64);
   --muted-color: rgba(216,222,233,0.25);
   --online-color: #a3be8c;
@@ -65,7 +65,7 @@
   --backdrop-invert: var(--background-invert);
   --backdrop-grayscale: var(--background-grayscale);
   --backdrop-sepia: var(--background-sepia);
-  --backdrop-blur: var(--background-blur);
+
   --bd-blue: var(--main-color);
   --bd-blue-hover: var(--hover-color);
   --bd-blue-active: var(--hover-color);
